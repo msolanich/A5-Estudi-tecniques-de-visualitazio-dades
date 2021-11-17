@@ -1,4 +1,4 @@
-# A5-Estudi-tecniques-de-visualitazio-dades
+# A5 Estudi tecniques de visualitazio dades
 
 ## Circle Packing 
 
