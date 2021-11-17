@@ -1,4 +1,4 @@
-# A5 Estudi tecniques de visualitazio dades
+# PAC 2 Estudi tècniques de visualitazió dades
 
 ## Circle Packing 
 
